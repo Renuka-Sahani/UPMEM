@@ -1,4 +1,7 @@
 # UPMEM
+
+You can just focus one dpu and pmr (other file h1,h2,ad.c you can ignore that is just for testing)
+
 These were the steps I followed:
 System Python Setup
 1) sudo apt update
