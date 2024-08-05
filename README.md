@@ -1,6 +1,6 @@
 # UPMEM
 
-You can just focus one dpu and pmr (other file h1,h2,ad.c you can ignore that is just for testing)
+## For team mate: You can just focus one dpu and pmr (other file h,h1,ad.c you can ignore that is just for testing)
 
 These were the steps I followed:
 System Python Setup
